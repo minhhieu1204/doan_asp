@@ -111,10 +111,10 @@ C:\Users\ADMIN\source\repos\DoAn_ASP\DoAn_ASP\bin\Debug\netcoreapp3.1\zh-Hans\Mi
 C:\Users\ADMIN\source\repos\DoAn_ASP\DoAn_ASP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ADMIN\source\repos\DoAn_ASP\DoAn_ASP\obj\Debug\netcoreapp3.1\DoAn_ASP.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\source\repos\DoAn_ASP\DoAn_ASP\obj\Debug\netcoreapp3.1\DoAn_ASP.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ADMIN\source\repos\DoAn_ASP\DoAn_ASP\obj\Debug\netcoreapp3.1\Razor\Views\Single\Index.cshtml.g.cs
 C:\Users\ADMIN\source\repos\DoAn_ASP\DoAn_ASP\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
 C:\Users\ADMIN\source\repos\DoAn_ASP\DoAn_ASP\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Index.cshtml.g.cs
 C:\Users\ADMIN\source\repos\DoAn_ASP\DoAn_ASP\obj\Debug\netcoreapp3.1\Razor\Views\a404\Index.cshtml.g.cs
 C:\Users\ADMIN\source\repos\DoAn_ASP\DoAn_ASP\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ViewStart.cshtml.g.cs
 C:\Users\ADMIN\source\repos\DoAn_ASP\DoAn_ASP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
 C:\Users\ADMIN\source\repos\DoAn_ASP\DoAn_ASP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ADMIN\source\repos\DoAn_ASP\DoAn_ASP\obj\Debug\netcoreapp3.1\Razor\Views\Single\Index.cshtml.g.cs
