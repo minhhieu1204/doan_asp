@@ -6069,19 +6069,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\Minh Hieu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\DoAn_ASP\\DoAn_ASP\\DoAn_ASP.csproj",
+      "projectUniqueName": "F:\\GITHUB\\doan_asp\\DoAn_ASP\\DoAn_ASP\\DoAn_ASP.csproj",
       "projectName": "DoAn_ASP",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\DoAn_ASP\\DoAn_ASP\\DoAn_ASP.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\DoAn_ASP\\DoAn_ASP\\obj\\",
+      "projectPath": "F:\\GITHUB\\doan_asp\\DoAn_ASP\\DoAn_ASP\\DoAn_ASP.csproj",
+      "packagesPath": "C:\\Users\\Minh Hieu\\.nuget\\packages\\",
+      "outputPath": "F:\\GITHUB\\doan_asp\\DoAn_ASP\\DoAn_ASP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Minh Hieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6089,7 +6089,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://pkgs.dev.azure.com/Hieuminhngo3/_packaging/Hieuminhngo3/nuget/v3/index.json": {},
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
